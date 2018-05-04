@@ -13,7 +13,7 @@ private:
     Sprite m_BackgroundSprite;
     Texture m_BackgroundTexture;
 
-    //une instance bob
+    //une instance de hero
     Hero m_Hero;
 
     void input();

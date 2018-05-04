@@ -21,6 +21,7 @@ private:
     bool m_RightPressed;
 
     float m_Speed;
+    int m_CounterAnimation;
 
 public:
     //constructeur
